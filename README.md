@@ -1,1 +1,1 @@
-data manager made for storing player data.
+This is a demonstration for my portifolio work.

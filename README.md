@@ -1,1 +1,1 @@
-This is a demonstration for my portifolio work.
+This is a demonstration for my portifolio.
